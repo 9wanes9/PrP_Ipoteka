@@ -1,0 +1,13 @@
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\bin\Debug\IpotekaView.exe.config
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\bin\Debug\IpotekaView.exe
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\bin\Debug\IpotekaView.pdb
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\bin\Debug\BL.dll
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\bin\Debug\BL.pdb
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\Ipoteka.csprojAssemblyReference.cache
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\IpotekaView.Form1.resources
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\IpotekaView.Properties.Resources.resources
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\Ipoteka.csproj.GenerateResource.cache
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\Ipoteka.csproj.CoreCompileInputs.cache
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\Ipoteka.csproj.CopyComplete
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\IpotekaView.exe
+C:\Users\HamsteR\Desktop\rgr-master\IpotekaView\obj\Debug\IpotekaView.pdb
